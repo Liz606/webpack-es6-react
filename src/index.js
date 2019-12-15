@@ -3,6 +3,6 @@ import {render} from 'react-dom';
 import LayoutPage from './layout';
 
 render(
-    <LayoutPage name="Taylor" />,
+    <LayoutPage name="Lizzy" />,
     document.getElementById('root')
 );

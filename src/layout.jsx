@@ -9,4 +9,5 @@ class LayoutPage extends React.Component {
       );
     }
   }
-  
+
+  export default LayoutPage; 
