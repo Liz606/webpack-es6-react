@@ -1,13 +1,13 @@
 import React from 'react';
 
-class LayoutPage extends React.Component {
+class IndexPage extends React.Component {
     render() {
       return (
         <div>
-          Hello {this.props.name}
+          Hello, 我是Index。
         </div>
       );
     }
   }
 
-  export default LayoutPage; 
+  export default IndexPage; 
